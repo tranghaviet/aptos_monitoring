@@ -8534,7 +8534,7 @@
           "type": "yesoreyeram-infinity-datasource",
           "uid": "${DS_INFINITY}"
         },
-        "definition": "Infinity- (legacy) CollectionLookup(mainnet,mainnet.aptoslabs.com,llt,testnet.aptoslabs.com,preview,vfn-preview.aptos.rhinostake.com,$chain)",
+        "definition": "Infinity- (legacy) CollectionLookup(mainnet,mainnet.aptoslabs.com,llt,testnet.aptoslabs.com,preview,vfn3.previewnet-1.previewnet.aptoslabs.com,$chain)",
         "hide": 2,
         "includeAll": false,
         "multi": false,
@@ -8555,7 +8555,7 @@
               "method": "GET"
             }
           },
-          "query": "CollectionLookup(mainnet,mainnet.aptoslabs.com,llt,testnet.aptoslabs.com,preview,vfn-preview.aptos.rhinostake.com,$chain)",
+          "query": "CollectionLookup(mainnet,mainnet.aptoslabs.com,llt,testnet.aptoslabs.com,preview,vfn3.previewnet-1.previewnet.aptoslabs.com,$chain)",
           "queryType": "legacy"
         },
         "refresh": 1,
